@@ -1,4 +1,4 @@
-# 1.0 Context and motivations
+# 1.0 Context
 
 (fictitious) Rossmann operates over 3,000 drug stores in 7 European countries. After the success of the expansion strategy of opening +240 drugstores in 2021 and with the good reaction of investors after the presentation of 3Q21 results, Rossman executives decided: +260 drugstores in 2022, maintaining the current geographic diversification and segmentation of customers. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance.  Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
@@ -11,7 +11,7 @@ The CFO perceives the importance of having a more quantitative approach when tak
 
 # 4.0 The data
 
-# 5.0 Strategy Solution
+# 5.0 Solution Strategy  Development 
 
 # 6.0 Conclusion
 
