@@ -8,6 +8,9 @@ The CFO perceives the importance of having a more quantitative approach when tak
 # 3.0 Delivarables
 1. Explore the data – be creative and pay attention to the details. You need to provide the financials team a better understanding of the characteristic features of sales;
 2. Create and describe a predictive model which allows the executives makes best decision to business growth and reach strategies goals.
+3. How does the sales forecast model perform?
+3. What is the best sales forecast for each store and worst case scenario.
+4. What is the total revenue forecast for all stores, in terms of revenue, for the company?
 
 # 4.0 The data
 
