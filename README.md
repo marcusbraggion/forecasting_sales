@@ -19,8 +19,6 @@ train.csv - historical data including Sales
 
 test.csv - historical data excluding Sales
 
-sample_submission.csv - a sample submission file in the correct format
-
 store.csv - supplemental information about the stores
 
 Data fields
@@ -96,3 +94,6 @@ I also brought 4 graphs that our graphic model also presents our model, the firs
 
 REFERENCES
 https://www.baass.com/blog/why-forecasting-is-important-for-business-success
+
+RESOURCES:
+https://www.kaggle.com/c/rossmann-store-sales
